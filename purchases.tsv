@@ -1,0 +1,47 @@
+key	quantity	units	date	paid	currency	shop	description
+1	1	ut	14-09-2020	50	eur	lush	.
+2	1	ut	14-09-2020	11.5	eur	lush	.
+3	0.09	kg	11-09-2020	0.58	eur	the barn	bio
+4	0.875	kg	11-09-2020	2.61	eur	the barn	bio
+5	0.355	kg	11-09-2020	3.01	eur	the barn	bio
+6	1.985	kg	11-09-2020	3.97	eur	the barn	bio
+7	1.255	kg	11-09-2020	3.12	eur	the barn	bio
+8	1.07	kg	11-09-2020	3.27	eur	the barn	bio
+9	0.535	kg	11-09-2020	4.86	eur	the barn	bio
+10	0.810	kg	11-09-2020	4.48	eur	the barn	bio
+11	1	ut	11-09-2020	1.59	eur	the barn	bio
+12	1	ut	11-09-2020	1.45	eur	the barn	bio
+13	1	ut	11-09-2020	1.37	eur	the barn	bio
+14	0.32	kg	11-09-2020	5.1	eur	the barn	bio
+15	0.515	kg	11-09-2020	0.77	eur	the barn	bio
+16	1.435	kg	11-09-2020	2.87	eur	the barn	bio
+17	0.895	kg	11-09-2020	2.95	eur	the barn	bio
+18	1	kg	11-09-2020	1.66	eur	the barn	bio
+19	48	ut	04-09-2020	16.18	eur	colruyt	33cl per can
+20	1	kg	04-09-2020	0.9	eur	colruyt	2 packets of .5
+21	2	l	16-09-2020	1.98	eur	aldi	2  units
+22	1	ut	16-09-2020	0.9	eur	aldi	2 pieces
+23	1.5	l	16-09-2020	0.49	eur	aldi	
+24	.5	kg	16-09-2020	1.59	eur	aldi	plastic
+25	2	ut	16-09-2020	1.18	eur	aldi	plastic
+26	2	ut	16-09-2020	2.39	eur	aldi	plastic
+27	1.5	kg	16-09-2020	1.78	eur	aldi	frozen 
+28	2	ut	16-09-2020	1.78	eur	aldi	frozen
+29	2	ut	16-09-2020	3.98	eur	aldi	frozen
+
+18	1.712	kg	19-09-2020	2.23	eur	market flagey	jonagold
+6	1.674	kg	19-09-2020	2.43	eur	market flagey	
+30	1	ut	19-09-2020	1	eur	market flagey	
+31	1.6	kg	19-09-2020	2.64	eur	market flagey	
+32	0.354	ut	19-09-2020	2.12	eur	market flagey	
+33	0.396	kg	19-09-2020	1.39	eur	market flagey	
+34	1	ut	19-09-2020	1.75	eur	market flagey	fresh
+35	0.938	kg	19-09-2020	3.05	eur	market flagey	
+36.	.5	ut	19-09-2020	4	eur	market flagey	
+38	1	ut	21-09-2020	3.99	eur	zara home	white coffee mug
+37	1	ut	21-09-2020	6.99	eur	zara home	
+39	1	ut	21-09-2020	30.99	eur	delhaize	12 years
+40	1	ut	21-09-2020	8.19	eur	delhaize	batteries for the kitchen scale, H(14)
+15	1	kg	21-09-2020	1.49	eur	delhaize	bio, plastic
+26	1	ut	21-09-2020	1.35	eur	delhaize	
+41	1	ut	21-09-2020	1.99	eur	delhaize	
